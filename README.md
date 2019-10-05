@@ -1,5 +1,6 @@
 # vue-test-utils-ts-sample
 Sample source for Vue.js + Jest + TypeScript project
+
 Detail: https://qiita.com/kecy/items/734ec10da420be7532b1 (Japanese)
 
 ## Project setup
